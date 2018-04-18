@@ -1,14 +1,7 @@
 ---
-title: "Homework Title"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-author: "Dylan McDowell"
-class: "Course Code"
-professor: "Professor Name"
-due: "date"
-topic: "Chapter x.x"
-misc: "i.e. X Points Possible"
-title-page: yes
-output: HomeworkBYUI::homework_pdf
+title: "Moncayo Notes First Meeting"
+date: "April 10, 2018"
+output: pdf_document
 ---
 
 # Econ 381 Notes

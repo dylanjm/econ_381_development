@@ -1,0 +1,38 @@
+---
+title: "Prepatory Notes"
+authors: "Dylan McDowell & Andrew Benson"
+date: "April 19, 2018"
+output: pdf_document
+---
+
+# Python
+
+## Comments on using Python
+
+Here is an online CS101 Syllabus:
+
+\url{https://content.byui.edu/file/5cf9c6d8-09ec-4cfd-8f9f-113556ddd03e/4/CS101syllabus.html}. 
+
+Some of the topics covered in CS101 include:
+
+- Use of Variables
+- Mathematical Expressions
+- If statements
+- For Loops
+- While Loops
+- Basic Input/Output commands to display (ie `print()`)
+- Basic Input/Output to file
+
+Things **Not** covered in CS101 that could potentially be needed for Econ381:
+
+- Use of Pandas (reading in data, manipulating data.frames)
+- Use of Numpy (performing mathematical functions on data)
+- Use of Matplotlib (plotting data)
+- Working in JuptyrLabs Notebooks
+
+
+
+
+
+
+
