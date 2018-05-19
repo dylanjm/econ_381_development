@@ -73,5 +73,9 @@ python Chapter 2 Question 7 & Question 9
 
 python Chapter 3 Question 1,2,7,11
 
-python Capter 4 Question 3,4,5
+python Capter 4 Question 3,4,5,8
+
+Note 4.3: It's previously worked out, graph and calculate the changes over time. Graph before the change, graph after the change. 
+
+Note 4.4: Program it dynamically, do not hardcode alpha. 
 
