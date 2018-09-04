@@ -8,7 +8,7 @@ Before each time you work on the project, ensure you have the latest version by 
 Upon finishing your work please add, commit, and push all your work ensuring you leave a detailed commit message about the files you worked on. You can do this through the GUI or you can run these in the command line:
 
 + `git add .`
-+ `git commit -m "Your message here between quotes"
++ `git commit -m "Your message here between quotes"`
 + `git push -u origin master`
 
 If you ever have any complications, sometimes the best thing to do is make copies of the files you have worked on and then re-clone the repo to a new place on your computer and then replace the files in the repo with the ones you have worked on. 
