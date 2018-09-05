@@ -24,6 +24,7 @@ Pull Often & Push Often
 + chapter_08
 
 ## Review
++ chapter_04
 
 ## Answer Key
 
