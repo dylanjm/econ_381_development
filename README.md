@@ -16,7 +16,7 @@ If you ever have any complications, sometimes the best thing to do is make copie
 Pull Often & Push Often
 
 ## Drafts
-+ chapter_01
+
 + chapter_02
 + chapter_03
 + chapter_04
@@ -24,6 +24,7 @@ Pull Often & Push Often
 + chapter_08
 
 ## Review
++ chapter_01
 
 ## Answer Key
 
