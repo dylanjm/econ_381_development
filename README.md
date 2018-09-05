@@ -24,7 +24,7 @@ Pull Often & Push Often
 + chapter_08
 
 ## Review
-<<<<<<< HEAD
+
 + chapter_04
 + chapter_01
 
