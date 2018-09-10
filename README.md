@@ -17,17 +17,20 @@ Pull Often & Push Often
 
 ## Drafts
 
-+ chapter_02
-+ chapter_03
-+ chapter_04
-+ chapter_07
++ chapter_05
++ chapter_06
 + chapter_08
 
 ## Review
 
 + chapter_04
-+ chapter_01
++ chapter_07
+
 
 ## Answer Key
+
++ chapter_01
++ chapter_02
++ chapter_03
 
 ## Complete
