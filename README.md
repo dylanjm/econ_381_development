@@ -18,14 +18,15 @@ Pull Often & Push Often
 ## Drafts
 
 + chapter_05
-+ chapter_06
++ chapter_06_appendix
 + chapter_08
++ chapter_09_and_10
 
 ## Review
 
 + chapter_04
 + chapter_07
-
++ chapter_06
 
 ## Answer Key
 
