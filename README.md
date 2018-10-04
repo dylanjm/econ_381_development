@@ -17,6 +17,8 @@ Pull Often & Push Often
 
 ## Drafts
 + chapter_06_appendix
++ chapter_11
++ chapter_12
 
 
 ## Review
