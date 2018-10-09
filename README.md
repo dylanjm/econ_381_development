@@ -29,6 +29,7 @@ Pull Often & Push Often
 + chapter_08
 + chapter_09_and_10
 + chapter_05
++ python_installation.pdf
 
 ## Answer Key
 
