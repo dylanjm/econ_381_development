@@ -17,20 +17,20 @@ Pull Often & Push Often
 
 ## Drafts
 + chapter_06_appendix
-+ chapter_11
-+ chapter_12
 + chapter_13
++ chapter_14
 
 
 ## Review
 
 + chapter_04
-+ chapter_07
++ chapter_05
 + chapter_06
++ chapter_07
 + chapter_08
 + chapter_09_and_10
-+ chapter_05
-+ python_installation.pdf
++ chapter_11
++ chapter_12
 
 ## Answer Key
 
@@ -39,3 +39,4 @@ Pull Often & Push Often
 + chapter_03
 
 ## Complete
++ python_installation.pdf
