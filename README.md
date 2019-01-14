@@ -21,8 +21,6 @@ Pull Often & Push Often
 
 ## Review
 
-+ chapter_04
-+ chapter_05
 + chapter_06_appendix
 + chapter_06
 + chapter_08
@@ -35,6 +33,8 @@ Pull Often & Push Often
 + chapter_01
 + chapter_02
 + chapter_03
++ chapter_04
++ chapter_05
 + chapter_07
 
 ## Complete
