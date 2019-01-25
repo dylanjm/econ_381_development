@@ -23,7 +23,6 @@ Pull Often & Push Often
 
 + chapter_06_appendix
 + chapter_06
-+ chapter_08
 + chapter_09_and_10
 + chapter_11
 + chapter_12
@@ -36,6 +35,8 @@ Pull Often & Push Often
 + chapter_04
 + chapter_05
 + chapter_07
++ chapter_08
+
 
 ## Complete
 + python_installation.pdf
